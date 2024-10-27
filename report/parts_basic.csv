@@ -1,0 +1,4 @@
+id,short_code,name,classification,type,size,color,description_main,description_extra,manufacturer,part_number
+hardware_nut_m6,nu6,Hardware Nut M6,hardware,nut,m6,,,,,
+hardware_set_screw_m6_25_mm_length,ss625,Hardware Set Screw M6 25 mm Length,hardware,set_screw,m6,,25_mm_length,,,
+hardware_washer_m6,w6,Hardware Washer M6,hardware,washer,m6,,,,,
