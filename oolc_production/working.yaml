@@ -1,0 +1,6 @@
+project_id: oomlout_oobb_hardware_nut_stacking_adapter
+project_name: Oomlout Oobb Hardware Nut Stacking Adapter
+project_repo: https://github.com/oomlout/oomlout_oobb_hardware_nut_stacking_adapter
+production_format:
+  oolc_1:
+    file_location: source_files/oolc_1.cdr
